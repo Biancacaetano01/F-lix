@@ -1,4 +1,4 @@
-# Projeto Gato F-lix - Disciplina Informática e Negócios
+# Projeto Gato Félix - Disciplina Informática e Negócios
 Aula do Professor Bruno Zolotareff dos Santos <br>
 Fatec Mauá - Informática para Negócios <br>
 
